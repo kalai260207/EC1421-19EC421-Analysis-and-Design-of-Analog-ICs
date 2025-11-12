@@ -18,15 +18,6 @@ phase shift of 180ο.
 
 The circuit closed-loop voltage gain is Avcl= -RF / R1
 
-
- ## CIRCUIT DIAGRAM:
-
- paste your circuit diagram
-
- ## MODEL GRAPH:
-
- Paste your model graph from observation
-
  ## DESIGN: 
 ~~~
 Inverting amplifier: 
@@ -35,6 +26,16 @@ Take   A = 10
 Rf =10 R1 
 Choose  R1 = 1kΩ, Rf=10kΩ  
 ~~~
+
+
+## CIRCUIT DIAGRAM:
+
+ paste your circuit diagram
+
+## MODEL GRAPH:
+
+ Paste your model graph from observation
+
 ## PROCEDURE:
  
 1. Select R1 as a constant value and choose a value of Rf.  
